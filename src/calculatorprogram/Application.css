@@ -1,0 +1,49 @@
+.root{
+    -fx-background-color: #00385a;
+    
+    
+
+
+}
+#bottoom{
+    -fx-background-color: linear-gradient(#00385a 1%, #6a90b4);
+    -fx-border-width: 2 0 0 0;
+    /*-fx-border-color: ;*/
+   
+    
+}
+.text-field{
+    -fx-background-color: #01162b;
+    -fx-text-fill: #ffffff;
+    -fx-background-radius: 10;
+    /*-fx-border-color: gray;*/
+    -fx-border-radius: 0;
+    -fx-border-insets: 0.5;
+    
+    
+}
+.text{
+    -fx-fill: #ffffff
+}
+.button{
+    -fx-background-color: #6a90b4;
+    -fx-border-width: 2 2 2 2;
+    -fx-border-color: #ffffff;
+    -fx-border-radius: 10;
+    -fx-background-radius: 15;
+    -fx-background-insets: 0.5
+    
+}
+.button:hover{
+    -fx-background-color: #00385a;
+
+    
+    
+    
+}
+.button:pressed{
+    -fx-background-color: #ffffff;
+
+    
+    
+}
