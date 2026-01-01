@@ -34,7 +34,7 @@ This is my **first project**, created to practice core programming concepts and 
 
 > Short demo video available on my YouTube channel 👇
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-MiniFoxDev-red?logo=youtube&logoColor=white)](https://www.youtube.com/@MiniFoxDev)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-MiniFoxDev-red?logo=youtube&logoColor=white)]([https://www.youtube.com/@MiniFoxDev](https://www.youtube.com/shorts/TBPr6h9hq4Q))
 
 ---
 
@@ -66,3 +66,4 @@ YouTube: https://www.youtube.com/@MiniFoxDev
 ---
 
 ⭐ If you like this project, feel free to star the repository!
+
